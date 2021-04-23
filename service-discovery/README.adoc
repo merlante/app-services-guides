@@ -87,7 +87,6 @@ RHOAS operator allow you to represent {product} services as first class citizens
 This enables you to work and integrate with these services using standard OpenShift/Kubernetes features and APIs.
     
 To connect your OpenShift project to your Red Hat OpenShift Application Services, you can use the RHOAS CLI.  
-This guide assumes that you have installed oc and rhoas cli on your machine.
 
 In this step we going to install RHOAS and OpenShift cli. You can skip this step entirely if you have those CLI
 already installed.
