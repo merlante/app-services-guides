@@ -81,7 +81,7 @@ ifdef::qs[]
 endif::[]
 
 [id="proc-installing-cli{context}"]
-== Installing required cli tools
+== Installing required CLI tools
 
 RHOAS operator allows you to represent {product} services as first class citizens in your OpenShift environment.
 This enables you to work and integrate with these services using standard OpenShift/Kubernetes features and APIs.
