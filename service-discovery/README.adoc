@@ -294,10 +294,6 @@ rhoas cluster bind
 . Command should end up with **Binding succeeded** message
 . Please go back to your app `prices.html` page
 . You should see prices changing on the webpage
-[source]
-----
-rhoas cluster bind
----- 
 
 ifdef::qs[]
 .Verification
